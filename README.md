@@ -1,3 +1,4 @@
+# Dev learning project for a newbie, thanks for the code to learn and play with :)
 # Alarm 3
 
 Install this app, hook up some speakers and use the computer as an alarm clock. Controlled via a web interface.
